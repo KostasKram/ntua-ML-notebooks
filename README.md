@@ -1,6 +1,6 @@
 # Machine Learning
 
-Jupyter notebooks for the Machine Learning course's lab at Ece Ntua 2023-24.
+Jupyter notebooks for the Machine Learning course's lab in python at Ece Ntua 2023-24.
 
 
 ## Lab 1 - Machine Learning Classification Algorithms
