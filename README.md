@@ -9,6 +9,6 @@ This project aims to conduct a comprehensive comparison of various machine learn
 
 
 ## Lab2 - Hyperspectral Image Analysis with Machine Learning
-This project implements a series of machine learning algorithms for analyzing hyperspectral images. It starts by loading and visualizing the image, followed by extracting spectral signatures. Next, k-means and PCA are applied for clustering and dimensionality reduction respectively. Finally, we explore combining PCA and k-means for optimized analysis.
+This project underlines the use of Machine learning in analyzing hyperspectral images. It starts by loading and visualizing the image, followed by extracting spectral signatures. Next, k-means and PCA are applied for clustering and dimensionality reduction respectively. Finally, we explore combining PCA and k-means for optimized analysis.
 
 All notebook reports are in Greek language.
